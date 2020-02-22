@@ -150,6 +150,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include=".cpp" />
     <ClCompile Include="ConsoleApplication2.cpp" />
     <ClCompile Include="example.cpp" />
   </ItemGroup>
