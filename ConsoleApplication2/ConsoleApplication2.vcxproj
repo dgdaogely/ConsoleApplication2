@@ -157,6 +157,7 @@
     <ClCompile Include="KDTreeTimingDemo.cpp" />
     <ClCompile Include="mode.cpp" />
     <ClCompile Include="test1.cpp" />
+    <ClCompile Include="VisualizeKD.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
