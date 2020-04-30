@@ -18,6 +18,9 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Demo.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{3D307FF5-26D2-41E3-A41B-FB7FBE4B862E}</ProjectGuid>
@@ -149,16 +152,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include=".cpp" />
-    <ClCompile Include="BuildLocatorFromKClosestPoints.cpp" />
-    <ClCompile Include="ConsoleApplication2.cpp" />
-    <ClCompile Include="example.cpp" />
-    <ClCompile Include="KDTreeTimingDemo.cpp" />
-    <ClCompile Include="mode.cpp" />
-    <ClCompile Include="test1.cpp" />
-    <ClCompile Include="VisualizeKD.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

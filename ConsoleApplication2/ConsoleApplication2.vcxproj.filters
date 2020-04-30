@@ -15,28 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ConsoleApplication2.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="example.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include=".cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="BuildLocatorFromKClosestPoints.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="test1.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="KDTreeTimingDemo.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="mode.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="VisualizeKD.cpp">
+    <ClCompile Include="Demo.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
